@@ -4,5 +4,7 @@ public class CocoMelon {
 
         //this is a message
 
+        //this is another message
+
     }
 }
