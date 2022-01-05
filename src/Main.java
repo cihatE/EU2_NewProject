@@ -3,5 +3,6 @@ public class Main {
         System.out.println("hello last day of git");
 
         //this is cool
+        //git should be easy
     }
 }
